@@ -1,0 +1,11 @@
+Top 10 Scores:
+1. Score: 100, Level: 10
+2. Score: 95, Level: 9
+3. Score: 90, Level: 8
+4. Score: 85, Level: 7
+5. Score: 80, Level: 6
+6. Score: 75, Level: 5
+7. Score: 70, Level: 4
+8. Score: 65, Level: 3
+9. Score: 60, Level: 2
+10. Score: 3, Level: 10
